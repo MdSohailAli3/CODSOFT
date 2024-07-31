@@ -109,6 +109,5 @@ cout<<"\n\t\t^^^^^^^^^^TIC-TAC-TOE-GAME^^^^^^^^^^\n\t\t\t\tFOR 2 PLAYERS\n\n\n";
    draw_board();
    cout<<"Player 1 will mark- X.\t\t\t\tPlayer 2 will mark- O.\n\n\t\t\tPlayer 1 will play first-\n\n";
    play_again(player);
-   cout<<"\nSee You Again..."<<endl;
     return 0;
 }
